@@ -1,5 +1,6 @@
 # Site settings
 title: Scott T. Wisdom, Ph.D.
+author: _________________________
 #email:    
 description: > # this means to ignore newlines until "baseurl:"
   I am a research scientist particularly interested in machine learning, deep learning, and statistical signal processing, especially for separation, classification, and enhancement of audio and speech.
