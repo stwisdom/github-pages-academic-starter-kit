@@ -1,13 +1,24 @@
 # Site settings
-title: J. Alexander Branham
-email: branham@utexas.edu
+title: Scott T. Wisdom, Ph.D.
+#email:    
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a PhD Candidate in the Department of Government at UT-Austin.
-  I study American politics, public opinion, and methods. 
+  I am a research scientist particularly interested in machine learning, deep learning, and statistical signal processing, especially for separation, classification, and enhancement of audio and speech.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://jabranham.com" # the base hostname & protocol for your site
-twitter_username: JAlexBranham
-github_username:  jabranham
+url: "https://stwisdom.github.io" # the base hostname & protocol for your site
+
+# social links
+twitter_username: ScottTWisdom
+github_username:  stwisdom
+#rss: rss
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: stwisdom
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap

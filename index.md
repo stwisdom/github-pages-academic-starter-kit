@@ -2,5 +2,8 @@
 layout: default
 ---
 
-Here's how you link to a [webpage in your site](/teaching/), and
-here's a link to an [external site](https://www.google.com)
+<img align="left" src="assets/scott_portrait1.png" hspace="20">
+
+Hi there! I am a research scientist who is particularly interested in machine learning, deep learning, and statistical signal processing, especially for separation, classification, and enhancement of audio and speech.
+
+Read more about me [here](/about/), or have a look at my [publications](/publications/).
