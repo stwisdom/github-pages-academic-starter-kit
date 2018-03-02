@@ -30,7 +30,7 @@ permalink: /publications/
 </span>
 </div>
 <div><br></div>
-<div><font size="3"><b>Scott Wisdom</b>, Thomas Powers, James Pitton, and Les Atlas, “<a href="https://students.washington.edu/swisdom/papers/icassp2017_sparse_coding_rnn.pdf">Building Recurrent Networks by Unfolding Iterative Thresholding for Sequential Sparse Recovery</a>,”&nbsp;</font><i style="font-size:medium;line-height:18px">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i><span style="font-size:medium;line-height:18px">,</span><font size="3">&nbsp;New Orleans, Lousiana, USA, March 2017.
+<div><font size="3"><b>Scott Wisdom</b>, Thomas Powers, James Pitton, and Les Atlas, “<a href="/assets/ICASSP2017_SparseCodingUnfoldsToRNN_final.pdf">Building Recurrent Networks by Unfolding Iterative Thresholding for Sequential Sparse Recovery</a>,”&nbsp;</font><i style="font-size:medium;line-height:18px">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i><span style="font-size:medium;line-height:18px">,</span><font size="3">&nbsp;New Orleans, Lousiana, USA, March 2017.
 <br>
 <a href="https://sigport.org/documents/building-recurrent-networks-unfolding-iterative-thresholding-sequential-sparse-recovery">[poster]</a>, <a href="https://github.com/stwisdom/sista-rnn">[code]</a></font></div>
 <div><font size="3"><b><br>
