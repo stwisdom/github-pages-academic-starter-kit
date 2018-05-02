@@ -10,7 +10,7 @@ permalink: /publications/
 <div><b style="font-size:medium">Scott Wisdom</b><span style="font-size:medium">, “</span><a href="https://digital.lib.washington.edu/researchworks/handle/1773/40878" style="font-size:medium">Improving and Unfolding Statistical Models of Nonstationary Signals</a><span style="font-size:medium">,” Ph.D. Dissertation, Department of Electrical Engineering, University of Washington, Seattle, WA, August 2017.</span></div>
 <div><font size="3"><span style="background-color:transparent;line-height:18px"><br>
 </span></font></div>
-<div><span style="font-size:medium;line-height:18px;background-color:transparent"><b>Scott Wisdom</b>, “<a href="https://sites.google.com/site/scottwisdomhomepage/wisdom_masters.pdf?attredirects=0">Improved Statistical Signal Processing of Nonstationary Random Processes Using Time-Warping</a>,” M.S. Thesis, Department of Electrical Engineering, University of Washington, Seattle, WA, March 2014.</span></div>
+<div><span style="font-size:medium;line-height:18px;background-color:transparent"><b>Scott Wisdom</b>, “<a href="https://digital.lib.washington.edu/researchworks/handle/1773/27150">Improved Statistical Signal Processing of Nonstationary Random Processes Using Time-Warping</a>,” M.S. Thesis, Department of Electrical Engineering, University of Washington, Seattle, WA, March 2014.</span></div>
 <div><span style="font-size:medium;line-height:18px;background-color:transparent"><br>
 </span></div>
 <div><br>
