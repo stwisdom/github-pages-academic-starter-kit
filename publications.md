@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<div><b style="font-size:large;line-height:18px">Please see my <a href="https://scholar.google.com/citations?user=kJM6N7IAAAAJ&hl=en" style="font-size:large">Google Scholar page</a> for the most up-to-date list</b></div>
+<div><b style="font-size:large;line-height:18px">Please see my <a href="https://scholar.google.com/citations?user=kJM6N7IAAAAJ&hl=en" style="font-size:large">Google Scholar page</a> for the most up-to-date list.</b></div>
 <div><font size="3"><span style="background-color:transparent;line-height:18px"><br>
 </span></font></div>
 <div><u style="font-size:large;line-height:18px">Academic Publications</u></div>
